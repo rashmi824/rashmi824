@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashmi Panditharathne</h1>
-<h3 align="center">Information Technology Undergraduate from Sri Lanka</h3>
+<h3 align="center">Software Engineering Undergraduate from Sri Lanka</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rashmipanditha" target="blank"><img src="https://img.shields.io/twitter/follow/rashmipanditha?logo=twitter&style=for-the-badge" alt="rashmipanditha" /></a> </p>
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **Java, MERN**, Python**
 
 - 📫 How to reach me **rashmipanditharathne@gmail.com**
 
@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmi824&show_icons=true&locale=en&layout=compact" alt="rashmi824" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmi824&" alt="rashmi824" /></p>### Hi there 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmi824&" alt="rashmi824" /></p>
 
 <!--
 **rashmi824/rashmi824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
